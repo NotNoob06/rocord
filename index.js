@@ -10,6 +10,7 @@ const bot = new AoiClient({
     intents: ["Guilds", "GuildMessages", "MessageContent"],
     events: ["onMessage", "onInteractionCreate"],
     guildOnly: false,
+    respondToBots: true,
     database: {
         type: "aoi.db",
         db: require("@akarui/aoi.db"),
@@ -18,7 +19,10 @@ const bot = new AoiClient({
         extraOptions: {
             dbType: "KeyValue"
         }
-    }
+    },
+    respondOnEdit: {
+      commands : true
+  },
 });
 
 const loader = new LoadCommands(bot);
