@@ -31,11 +31,11 @@ $footer[Rocord]
 $addtimestamp
 $color[Blue]
 
-$addButton[1;5 R$;primary;dep5_$authorID;false]
-$addButton[1;10 R$;primary;dep10_$authorID;false]
-$addButton[1;20 R$;primary;dep20_$authorID;false]
-$addButton[1;30 R$;primary;dep30_$authorID;false]
 $addButton[1;50 R$;primary;dep50_$authorID;false]
+$addButton[1;30 R$;primary;dep30_$authorID;false]
+$addButton[1;20 R$;primary;dep20_$authorID;false]
+$addButton[1;10 R$;primary;dep10_$authorID;false]
+$addButton[1;5 R$;primary;dep5_$authorID;false]
 
 
 `
@@ -99,11 +99,11 @@ Thanks!
 {color:#00ff00}
 };
 {actionRow:
-{button:5 $:success:a:false} 
-{button:10 $:danger:a:false}
-{button:20 $:secondary:a:false}
-{button:30 $:secondary:a:false}
-{button:50 $:secondary:a:false}
+{button:5 $:success:aperm:false} 
+{button:10 $:danger:bperm:false}
+{button:20 $:secondary:cperm:false}
+{button:30 $:secondary:dperm:false}
+{button:50 $:secondary:eperm:false}
 }
 ]
 
