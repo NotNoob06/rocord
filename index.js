@@ -19,10 +19,7 @@ const bot = new AoiClient({
         extraOptions: {
             dbType: "KeyValue"
         }
-    },
-    respondOnEdit: {
-      commands : true
-  },
+    }
 });
 
 const loader = new LoadCommands(bot);
