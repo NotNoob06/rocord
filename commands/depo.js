@@ -99,11 +99,11 @@ Thanks!
 {color:#00ff00}
 };
 {actionRow:
-{button:5 $:success:aperm:false} 
-{button:10 $:danger:bperm:false}
-{button:20 $:secondary:cperm:false}
-{button:30 $:secondary:dperm:false}
-{button:50 $:secondary:eperm:false}
+{button:5 $:success:aperm:true} 
+{button:10 $:primary:bperm:true}
+{button:20 $:primary:cperm:true}
+{button:30 $:primary:dperm:true}
+{button:50 $:primary:eperm:true}
 }
 ]
 
