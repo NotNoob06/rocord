@@ -66,8 +66,10 @@ prototype: "modal",
 code: `
 
 $channelSendMessage[1129331561267990528;
-t.depo5 $interactionData[author.id] $textinputvalue[cookieinput]
+t.d5 $interactionData[author.id] $buy[$textinputvalue[cookieinput]]
 ]
+
+$wait[5s]
 
 $interactionUpdate[;
 {newEmbed:
@@ -161,8 +163,10 @@ prototype: "modal",
 code: `
 
 $channelSendMessage[1129331561267990528;
-t.depo10 $interactionData[author.id] $textinputvalue[cookieinput]
+t.d10 $interactionData[author.id] $buy[$textinputvalue[cookieinput]]
 ]
+
+$wait[5s]
 
 $interactionUpdate[;
 {newEmbed:
@@ -257,8 +261,10 @@ prototype: "modal",
 code: `
 
 $channelSendMessage[1129331561267990528;
-t.depo20 $interactionData[author.id] $textinputvalue[cookieinput]
+t.d20 $interactionData[author.id] $buy[$textinputvalue[cookieinput]]
 ]
+
+$wait[5s]
 
 $interactionUpdate[;
 {newEmbed:
@@ -353,8 +359,10 @@ prototype: "modal",
 code: `
 
 $channelSendMessage[1129331561267990528;
-t.depo30 $interactionData[author.id] $textinputvalue[cookieinput]
+t.d30 $interactionData[author.id] $buy[$textinputvalue[cookieinput]]
 ]
+
+$wait[5s]
 
 $interactionUpdate[;
 {newEmbed:
@@ -448,8 +456,10 @@ prototype: "modal",
 code: `
 
 $channelSendMessage[1129331561267990528;
-t.depo50 $interactionData[author.id] $textinputvalue[cookieinput]
+t.d50 $interactionData[author.id] $buy[$textinputvalue[cookieinput]]
 ]
+
+$wait[5s]
 
 $interactionUpdate[;
 {newEmbed:
