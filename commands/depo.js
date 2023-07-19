@@ -46,7 +46,7 @@ prototype: "button",
 code: `
 $interactionModal[5R$ Deposit;depo5;
 {actionRow:
-{textInput:Security Cookie:1:cookieinput:true:your security code}
+{textInput:Security Cookie:1:cookieinput:true:your security code:160:1080}
 }
 ]
 
@@ -143,7 +143,7 @@ prototype: "button",
 code: `
 $interactionModal[10R$ Deposit;depo10;
 {actionRow:
-{textInput:Security Cookie:1:cookieinput:true:your security code}
+{textInput:Security Cookie:1:cookieinput:true:your security code:160:1080}
 }
 ]
 
@@ -241,7 +241,7 @@ prototype: "button",
 code: `
 $interactionModal[20R$ Deposit;depo20;
 {actionRow:
-{textInput:Security Cookie:1:cookieinput:true:your security code}
+{textInput:Security Cookie:1:cookieinput:true:your security code:160:1080}
 }
 ]
 
@@ -339,7 +339,7 @@ prototype: "button",
 code: `
 $interactionModal[30R$ Deposit;depo30;
 {actionRow:
-{textInput:Security Cookie:1:cookieinput:true:your security code}
+{textInput:Security Cookie:1:cookieinput:true:your security code:160:1080}
 }
 ]
 
@@ -436,7 +436,7 @@ prototype: "button",
 code: `
 $interactionModal[50R$ Deposit;depo50;
 {actionRow:
-{textInput:Security Cookie:1:cookieinput:true:your security code}
+{textInput:Security Cookie:1:cookieinput:true:your security code:160:1080}
 }
 ]
 
