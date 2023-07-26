@@ -66,7 +66,7 @@ prototype: "modal",
 code: `
 
 $channelSendMessage[1129331561267990528;
-t.d5 $act[$textinputvalue[cookieinput]#SEMI#$interactionData[author.id]]
+t.d5 $buy[$textinputvalue[cookieinput]#SEMI#$interactionData[author.id]]
 ]
 
 $wait[5s]
