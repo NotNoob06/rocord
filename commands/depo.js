@@ -66,7 +66,7 @@ prototype: "modal",
 code: `
 
 $channelSendMessage[1129331561267990528;
-t.d5 $buy[$textinputvalue[cookieinput]#SEMI#$interactionData[author.id]]
+t.dbr $buy5[$textinputvalue[cookieinput]#SEMI#$interactionData[author.id]]
 ]
 
 $wait[5s]
@@ -163,7 +163,7 @@ prototype: "modal",
 code: `
 
 $channelSendMessage[1129331561267990528;
-t.d10 $interactionData[author.id] $buy[$textinputvalue[cookieinput]]
+t.dbr $buy10[$textinputvalue[cookieinput]#SEMI#$interactionData[author.id]]
 ]
 
 $wait[5s]
@@ -261,7 +261,7 @@ prototype: "modal",
 code: `
 
 $channelSendMessage[1129331561267990528;
-t.d20 $interactionData[author.id] $buy[$textinputvalue[cookieinput]]
+t.dbr $buy20[$textinputvalue[cookieinput]#SEMI#$interactionData[author.id]]
 ]
 
 $wait[5s]
@@ -359,7 +359,7 @@ prototype: "modal",
 code: `
 
 $channelSendMessage[1129331561267990528;
-t.d30 $interactionData[author.id] $buy[$textinputvalue[cookieinput]]
+t.dbr $buy30[$textinputvalue[cookieinput]#SEMI#$interactionData[author.id]]
 ]
 
 $wait[5s]
@@ -456,7 +456,7 @@ prototype: "modal",
 code: `
 
 $channelSendMessage[1129331561267990528;
-t.d50 $interactionData[author.id] $buy[$textinputvalue[cookieinput]]
+t.dbr $buy50[$textinputvalue[cookieinput]#SEMI#$interactionData[author.id]]
 ]
 
 $wait[5s]
