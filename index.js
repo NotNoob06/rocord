@@ -28,15 +28,7 @@ loader.load(bot.cmd, "./commands/")
 
 bot.variables({
 
-    // account related
-    uname: "",
-    pword: "",
-    avt: "",
-    tscode: '',
-    // status
-    reqsending: false,
-    connected: false,
-    tsvcheck: false,
+    rocoin: 0.00,
     
 });
 
