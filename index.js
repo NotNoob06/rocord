@@ -28,7 +28,7 @@ loader.load(bot.cmd, "./commands/")
 
 bot.variables({
 
-    rocoin: 0.00,
+  rocoin: 0,
     
 });
 
